@@ -8,13 +8,13 @@ $font: (
 // Palette.
 
 $palette: (
-  primary:           #424b5f,
-  secondary:         #283040,
-  meta:              #67758d,
-  border:            #dee5ef,
-  bg:                #f7f9fb,
-  note:              #fcb41d,
-  important:         #fc381d,
+  primary:           #063562,
+  secondary:         #02579E,
+  meta:              #ADADAD,
+  border:            #063562,
+  bg:                #ffffff,
+  note:              #028764,
+  important:         #DD3333,
   accent:            getPaletteKey(accent1),
   accent-alt:        getPaletteKey(accent2),
 );
