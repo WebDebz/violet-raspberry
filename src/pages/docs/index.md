@@ -1,15 +1,14 @@
 ---
-title: Welcome to Libris
+title: Welcome to Primerica One
 menus:
   main:
     title: Docs
     weight: 2
 template: docs
 ---
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt id ante id varius. Fusce a gravida dolor.
 
-***
+- - -
 
 Sed vel arcu ac ante blandit ultricies quis eget justo. Donec et lacinia sapien, sit amet tempus ligula. Fusce et sagittis massa. Fusce mollis mollis dui eget sagittis. Suspendisse id nunc mauris.
 
